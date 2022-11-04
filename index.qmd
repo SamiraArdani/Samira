@@ -1,0 +1,224 @@
+---
+title: "Samira"
+---
+
+**Samira Ardani**
+
+**Department of Civil
+and Environmental Engineering**,
+**University of Nebraska-Lincoln**
+
+**Prem Paul Research
+Center at Whittier, Room 330H**
+
+**2200 Vine St,
+Lincoln, NE 68503**
+
+**Email: [samira.ardani\@unl.edu]{.underline}**
+
+**Academic Interests**
+
+*Structural Health Monitoring and Bridge
+Engineering*
+
+Online Monitoring and Damage Detection
+Utilizing Machine Learning methods, Artificial Neural Network, Artificial
+Intelligence, Bridge Dynamic Load Rating.
+
+*Fluid Mechanics, Nearshore Wave Modeling
+and coastal Resiliency:*
+
+Computational
+Fluid Mechanics, Mathematical Modeling, Nonlinear Wave Dynamics, Analysis of Waves in Frequency Domain, Numerical Modeling of Hurricanes and
+Storm Surge; Applying Nature-Based Solutions Such as Coastal Vegetation for
+Enhancing Coastal Resiliency
+
+*Data Science*:
+
+Data Manipulation, Data
+Cleaning, Quantitative Analysis of the Outputs Using Statistical Methods
+and Visualization of the Results, Deep Learning, Artificial Neural Network,
+Transfer learning.
+
+*Data Assimilations and Uncertainty Quantification*:
+
+Applying Statistical Methods Such as Bayesian Techniques to Estimate the Unknown Parameters
+and Uncertainty
+Quantification of the Model Outputs,
+Markov Chain Monte Carlo, Monte Carlo Simulation.
+
+**Education**
+
+Ph.D. in Civil Engineering, Texas A&M University, College Station, TX. (2010-2016).
+M.Sc. in Civil Engineering, Khajeh Nasir Toosi (K.N.Toosi) University of Technology, Tehran, Iran (2005-2008).
+B.Sc. in Civil Engineering, Semnan University, Semnan, Iran (2000-2004).
+
+**Skills and Qualifications**
+
+[Programming Languages:]{.underline}
+
+Python
+(Numpy, Pandas, Matplotlib, basemap, NetCDF, etc.), MATLAB, SQL, Fortran, Visual Basic, LabVIEW and Knowledge of Working in Linux Operating System.
+
+[Technical software:]{.underline}
+
+DELFT 3D, Delft Dashboard, SWAN, MIKE 21, GENESIS, MEPBAY, WAVEWATCH III (Attending NCEP/UMD Waves Winter School), HEC-HMS, SAP2000, ETABS2000, SAFE, AutoCAD and LAND
+
+**Job Experiences**
+
+Post-Doctoral Research Associate, Department of Civil Engineering, University of Nebraska-Lincoln, NE. February 2020- now.
+
+Research Assistant Professor, Department of Ocean Engineering, Texas A&M University, TX. September 2017- January 2020.
+
+Assistant Lecturer in Zachry Department of Civil Engineering for Teaching CVEN 302, *Computer Application in Engineering
+and Construction,* Texas A&M University, College Station,
+TX. Spring 2015 and Spring 2017
+
+Graduate Research Assistant in Zachry Department of Civil Engineering, Ocean Engineering Division, Texas A&M University, College Station, TX. June 2011- May 2016.
+
+Bakhtar Petrochemical Company), Tehran, Iran.   Summer 2005--summer 2010 as a Civil Engineer and
+Active Participant in Reviewing Technical
+Proposals, Writing Reports and Conducting Engineering Meetings.
+
+Iranian National Center of Oceanography (INCO), Tehran, Iran.  Part Time Activity. May 2008-- October 2008.
+
+Moshanir Power Engineering Consultants, Tehran, Iran.  Summer 2003 as an Intern.
+
+**Certification**
+
+Online Teaching, Center
+for Transformative Teaching, University of Nebraska-Lincoln. May 2020.
+
+DataCamp, Data Scientist with Python (Numpy, Pandas, Data
+Cleaning, Data Manipulation, Visualization Using Matplotlib, Statistical
+Thinking, Machine learning, etc.).
+
+Graduate Teaching Academy, Texas A&M University. April 2014.
+
+SUT-TAMU, One Day Short Course, Texas A&M University. March 2014.
+
+**Courses Taught and the Seminars**
+
+[Teachings:]{.underline}
+
+Instructor for**MENG 3250***, Mechanics of Elastic Bodies,* Summer 2020, Summer 2021*.*
+
+Lab Instructor for **ENGR 216**, *Experimental Physics and Engineering Lab II -- Mechanics* (Five Sections)*,* Spring 2019 and Fall 2019.
+
+Instructor for **PHYS 201***,**Physics labs*, (Four Sections), Fall 2018.
+
+Instructor for **PHYS 218,** *Physics labs*, (Three Sections)and **PHYS 201** (One Section),Spring 2018.
+
+Research Faculty for **ENGR 111,** *Foundations of Engineering*, (Three sections), Fall 2017.
+
+Instructor for **CVEN 302**, *Computer Application in Engineering
+and Construction*, Texas A&M University, Spring 2015, Spring 2017.
+
+Substitute for **OCEN 400**, *Basic Coastal Engineering*, Texas A&M University, Five Sessions. 
+
+Substitute for **CVEN 302**, *Computer Application in Engineering and Construction*, Texas A&M University, Three Sessions.
+
+[Talks:]{.underline}
+
+Ocean Engineering Seminar (OCEN681), Texas A&M University, Spring 2014.
+
+**Honors and Awards**
+
+Graduate Teaching Fellowship, Zachry Department of Civil Engineering, Texas
+A&M University, 2014.
+
+Honor Graduate, Second Grade Among Civil Engineering Students, Semnan University, 2004.
+
+Honor Graduate, Third Grade Among Hydraulic Engineering Students, K.N.Toosi University of Technology, 2008.
+
+**Reviewing Conference Papers and Editorial Services**
+
+Physics of Fluids, Reviewer
+
+International Conference on Ocean, Offshore & Arctic Engineering (OMAE 2017, OMAE 2018 and OMAE 2019).
+
+Current Research in Hydrology and Water Resources.
+
+**Technical Societies**
+
+Member, ASCE.
+
+Member, American Geophysical Union.  2012-2019.
+
+Member, COPRI.  Since 2011.
+
+Member, Society of Underwater
+Technology, Texas A&M University.  (SUT- TAMU). Since March 2014.
+
+**Scholarly Activities and Collaborations**
+
+Mathematical Derivation for Generating a Transformation Model for Fully Dispersive Nonlinear Waves and Its Numerical Programming Using Fortran. (Topic of Dissertation)
+
+Model Optimization, Statistical Programming Using MATLAB and Uncertainty Analysis of Delft 3D and SWAN as Numerical Models for Wave and Flow Using Bayesian Statistical Techniques and Markov Chain Monte Carlo (MCMC) Algorithm.
+
+Simulation of Free Surface Elevation from Directional Spectra Using MATLAB. This Code Generates
+Free Surface Elevation from TMA Directional Spectra Using Three Different Methods of Discretization and Compares the Results. It Also Has the Capability of Generating Original TMA Spectrum from the Generated Free Surface Elevation Using FFT Technique.
+
+Collaboration in Nebraska
+Department of Transportation Funded Project \"Low-cost Modal Identification
+Sensors for Bridge Field Testing.\" as a Postdoctoral Researcher.
+
+**Book Chapters, Journal Papers, reports**
+
+Linzell, D. G., Eftekhar Azam, S., **Ardani, S.**, & Rageh, A. (2021). M105: Low-Cost Modal Identification Sensors for Bridge Field Testing (No. M105). Nebraska. Department of Transportation.
+
+**Ardani, S.**, Kaihatu, J.M. (2019). \"Evolution of High Frequency Waves
+in Shoaling and Breaking Wave Spectra\", Physics of Fluids, 31, doi:
+10.1063/1.5096179.
+
+Kaihatu, J.M., **Ardani, S.**, Goertz, J.T., Venkattaramanan, A., and Sheremet, A. (2018). "Wave
+Dissipation Mechanisms in Spectral Phase-Resolving Nonlinear Wave Models,"
+in Panchang, V., and Kaihatu, J.M. (ed.) Advances in Coastal Hydraulics,
+235-262, World Scientific, Singapore, ISBN: 978-981-3231-27-6.
+
+**Ardani, S.**, and Kaihatu, J.M. (2018). "Optimization of
+Bathymetry Estimates for Near-shore Hydrodynamic Models Using Bayesian Methods",
+ASCE Journal of Waterway, Port, Coastal and Ocean Engineering, 144(6), DOI:
+10.1061/ (ASCE) WW.1943-5460.0000472.
+
+**Ardani, S.**, and Soltanpour, M. (2015). Modeling of Sediment
+Transport in Beris Fishery Port. Civil Engineering Infrastructures Journal, 48(1), 69-82., ISSN: 2322-2093.
+
+**Conferences Proceedings and Abstracts**
+
+**Ardani, S.**, Akintunde, E., Linzell, D. G., Eftekhar Azam, S., (2022). \"[Application of proper
+orthogonal decomposition to bridge damage detection-field investigations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cWRPl8IAAAAJ&sortby=pubdate&citation_for_view=cWRPl8IAAAAJ:wuD5JclIwkYC)\", *Bridge Safety, Maintenance, Management, Life-Cycle, Resilience and Sustainability: Proceedings of the Eleventh
+International Conference on Bridge Maintenance, Safety and Management (IABMAS
+2022),* Barcelona, Spain, July 11-15, 2022
+
+**Ardani, S.**, and Kaihatu, J.M. (2018). \"A Model in Frequency Domain for Transformation of Fully
+Dispersive Nonlinear Waves.\" *Coastal Engineering Proceedings, 1*(36), Papers.60. DOI: <https://doi.org/10.9753/icce.v36.papers.60>
+
+Kaihatu, J.M., Goertz, J.T., **Ardani, S**., and Sheremet, A. (2017). "Nonlinear and Dissipative
+Characteristics of a Combined Random-Cnoidal Wave Field." Proceedings of
+the 36th International Conference on Ocean, Offshore and Arctic Engineering,
+Trondheim, Norway, OMAE2017-62634.
+
+**Ardani, S.**, Kaihatu J.M., Goertz J.T., \"Characterizing the Instantaneous Dissipation in Breaking Waves\", Abstract EC14C-0994 AGU-Ocean Science, New Orleans, LA., February 21-26, 2016.
+
+Kaihatu, J.M., Liao, Y.P. **Ardani, S.**, \"Nonlinear and Directional Effects of Waves in Areas of
+High Dissipation: Implications for Coastal Hazard Characterization\", ASCE Engineering Mechanics Institute (ASCI-EMI) Conference, January 2016.
+
+Kaihatu, J.M., Liao, Y.P. **Ardani, S., \"**Nonlinear Directional Effects of Wave Transformation
+over Areas of High Dissipation\", The International Society of Offshore and
+Polar Engineers (ISOPE), January 2016
+
+**Ardani, S.**, Kaihatu J.M., A Frequency-Domain Model for Transformation of Highly Nonlinear Waves\", Young Coastal Scientists and Engineers Conference, University of Delaware, July 27-29, 2015.
+
+**Ardani, S**., Kaihatu J.M.,
+\"Uncertainty Analysis and Parameter Estimation for Nearshore Hydrodynamic Models\" 2012, Abstract OS21B-1753 AGU Fall Meeting, San Francisco, Dec 3-7, 2012.
+
+**Ardani, S.**, Soltanpour, M., \"Modeling of Sediment Transport in Beris Fishery Port\", 2008,
+8th International Conference on Coasts, Ports and Marine
+Structures (ICOPMAS2008), Tehran, Iran.
+
+**Ardani, S**., Soltanpour, M., \"Modeling of Shoreline Position For Beris Fishery Port in Dynamic Equilibrium\", 2008, 7th Hydraulic Conference, Tehran, Iran.
+
+```{r}
+1 + 1
+```
