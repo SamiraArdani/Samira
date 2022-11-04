@@ -160,6 +160,10 @@ Simulation of Free Surface Elevation from Directional Spectra Using MATLAB. This
 
 Collaboration in Nebraska Department of Transportation Funded Project "Low-cost Modal Identification Sensors for Bridge Field Testing." as a Postdoctoral Researcher.
 
+Developing Edge computing app for structural healthy monitoring.
+
+Transfer learning.
+
 \-\--
 
 **Book Chapters, Journal Papers, reports**

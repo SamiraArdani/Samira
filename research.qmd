@@ -1,4 +1,16 @@
 ---
-title: "research"
+title: "Research projects"
 editor: visual
 ---
+
+-   Mathematical Derivation for Generating a Transformation Model for Fully Dispersive Nonlinear Waves and Its Numerical Programming Using Fortran. (Topic of Dissertation)
+
+-   Model Optimization, Statistical Programming Using MATLAB and Uncertainty Analysis of Delft 3D and SWAN as Numerical Models for Wave and Flow Using Bayesian Statistical Techniques and Markov Chain Monte Carlo (MCMC) Algorithm.
+
+-   Simulation of Free Surface Elevation from Directional Spectra Using MATLAB. This Code Generates Free Surface Elevation from TMA Directional Spectra Using Three Different Methods of Discretization and Compares the Results. It Also Has the Capability of Generating Original TMA Spectrum from the Generated Free Surface Elevation Using FFT Technique.
+
+-   Collaboration in Nebraska Department of Transportation Funded Project "Low-cost Modal Identification Sensors for Bridge Field Testing." as a Postdoctoral Researcher.
+
+-   Developing Edge computing app for structural healthy monitoring.
+
+-   Transfer learning.
