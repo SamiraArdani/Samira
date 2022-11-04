@@ -1,0 +1,22 @@
+---
+title: "Academic interests"
+editor: visual
+---
+
+**Academic Interests**
+
+*Structural Health Monitoring and Bridge Engineering*
+
+Online Monitoring and Damage Detection Utilizing Machine Learning methods, Artificial Neural Network, Artificial Intelligence, Bridge Dynamic Load Rating.
+
+*Fluid Mechanics, Nearshore Wave Modeling and coastal Resiliency:*
+
+Computational Fluid Mechanics, Mathematical Modeling, Nonlinear Wave Dynamics, Analysis of Waves in Frequency Domain, Numerical Modeling of Hurricanes and Storm Surge; Applying Nature-Based Solutions Such as Coastal Vegetation for Enhancing Coastal Resiliency
+
+*Data Science*:
+
+Data Manipulation, Data Cleaning, Quantitative Analysis of the Outputs Using Statistical Methods and Visualization of the Results, Deep Learning, Artificial Neural Network, Transfer learning.
+
+*Data Assimilations and Uncertainty Quantification*:
+
+Applying Statistical Methods Such as Bayesian Techniques to Estimate the Unknown Parameters and Uncertainty Quantification of the Model Outputs, Markov Chain Monte Carlo, Monte Carlo Simulation.
