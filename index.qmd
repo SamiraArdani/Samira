@@ -1,20 +1,29 @@
 ---
 title: "Samira"
+about: 
+  id: hero-heading
+  template: trestles
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/samira-ardani-17433346/
+    - text: GitHub
+      href: https://github.com/SamiraArdani
+    - text: Email
+      href: mailto:samira.ardani@gmail.com
 ---
-
+::: {#hero-heading}
 **Samira Ardani**
 
-**Department of Civil
-and Environmental Engineering**,
-**University of Nebraska-Lincoln**
+Samira Ardani is the Post Doctoral Research Associate at the department of civil and environmental engineering, University of Nebraska-Lincoln.
 
-**Prem Paul Research
-Center at Whittier, Room 330H**
+**Address**
 
-**2200 Vine St,
-Lincoln, NE 68503**
+Prem Paul Research Center at Whittier, Room 330H.
 
-**Email: [samira.ardani\@unl.edu]{.underline}**
+2200 Vine St, Lincoln, NE 68503
+
+Email: samira.ardani\@unl.edu
+:::
 
 **Academic Interests**
 
@@ -50,7 +59,9 @@ Markov Chain Monte Carlo, Monte Carlo Simulation.
 **Education**
 
 Ph.D. in Civil Engineering, Texas A&M University, College Station, TX. (2010-2016).
+
 M.Sc. in Civil Engineering, Khajeh Nasir Toosi (K.N.Toosi) University of Technology, Tehran, Iran (2005-2008).
+
 B.Sc. in Civil Engineering, Semnan University, Semnan, Iran (2000-2004).
 
 **Skills and Qualifications**
@@ -105,18 +116,15 @@ Instructor for**MENG 3250***, Mechanics of Elastic Bodies,* Summer 2020, Summer 
 
 Lab Instructor for **ENGR 216**, *Experimental Physics and Engineering Lab II -- Mechanics* (Five Sections)*,* Spring 2019 and Fall 2019.
 
-Instructor for **PHYS 201***,**Physics labs*, (Four Sections), Fall 2018.
+Instructor for **PHYS 201***, *Physics labs*, (Four Sections), Fall 2018.
 
-Instructor for **PHYS 218,** *Physics labs*, (Three Sections)and **PHYS 201** (One Section),Spring 2018.
+Instructor for **PHYS 218,** *Physics labs*, (Three Sections) and **PHYS 201** (One Section),Spring 2018.
 
 Research Faculty for **ENGR 111,** *Foundations of Engineering*, (Three sections), Fall 2017.
 
 Instructor for **CVEN 302**, *Computer Application in Engineering
 and Construction*, Texas A&M University, Spring 2015, Spring 2017.
 
-Substitute for **OCEN 400**, *Basic Coastal Engineering*, Texas A&M University, Five Sessions. 
-
-Substitute for **CVEN 302**, *Computer Application in Engineering and Construction*, Texas A&M University, Three Sessions.
 
 [Talks:]{.underline}
 
@@ -145,7 +153,7 @@ Member, ASCE.
 
 Member, American Geophysical Union.  2012-2019.
 
-Member, COPRI.  Since 2011.
+Member, ASCE- COPRI.  Since 2011.
 
 Member, Society of Underwater
 Technology, Texas A&M University.  (SUT- TAMU). Since March 2014.
