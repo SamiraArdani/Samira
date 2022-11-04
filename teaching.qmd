@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+editor: visual
+---
+
+**MENG 3250***, Mechanics of Elastic Bodies,* Summer 2020, Summer 2021*.*
+
+**ENGR 216**, *Experimental Physics and Engineering Lab II -- Mechanics* (Five Sections)*,* Spring 2019 and Fall 2019.
+
+**PHYS 201**, *Physics labs*, (Four Sections), Fall 2018.
+
+**PHYS 218,** *Physics labs*, (Three Sections) and **PHYS 201** (One Section),Spring 2018.
+
+**ENGR 111,** *Foundations of Engineering*, (Three sections as research faculty), Fall 2017.
+
+**CVEN 302**, *Computer Application in Engineering and Construction*, Texas A&M University, Spring 2015, Spring 2017.

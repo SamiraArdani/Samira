@@ -1,14 +1,18 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Samira"
+  title: "Samira Ardani"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - interest.qmd
+      - teachinhg.qmd
+      - research.qmd
+      
 format:
   html:
     theme: cosmo
